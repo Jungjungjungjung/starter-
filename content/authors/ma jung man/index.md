@@ -1,10 +1,12 @@
 ---
 title: jungman
-role: Research engineer
+role: Professor of Artificial Intelligence
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - cyber security
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 social:
   - icon: envelope
     icon_pack: fas
@@ -26,6 +28,12 @@ education:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
       year: 2012
+    - course: MEng in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2009
+    - course: BSc in Artificial Intelligence
+      institution: Massachusetts Institute of Technology
+      year: 2008
 email: ""
 superuser: false
 authors:
