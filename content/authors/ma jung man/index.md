@@ -1,6 +1,6 @@
 ---
 title: jungman
-role: Professor of Artificial Intelligence
+role: Research engineer
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
